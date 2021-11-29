@@ -4,6 +4,8 @@ from tkinter import *
 
 
 root=Tk()
+root.title("Calculator")
+root.iconbitmap('C:/Users/Desktop/1486564177-finance-finance-calculator_81497.ico')
 root.geometry("390x305")
 root.configure(bg='#B3BF55')
 e=Entry(root,width=50, borderwidth=5, bg='#FA8072')
