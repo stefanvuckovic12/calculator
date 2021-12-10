@@ -1,2 +1,1 @@
-# pythonkalkulator
-Jednostavni python kalkulator
+# simple python calculator
